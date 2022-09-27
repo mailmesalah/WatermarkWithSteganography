@@ -1,0 +1,5 @@
+FMain = 104, 104, 991, 546, C, 78, 78, 965, 520, C
+FWatermark = 52, 52, 939, 494, C, 26, 26, 913, 468, C
+FEncodeSteganography = 0, 0, 887, 442, , 0, 0, 887, 442, C
+FDecodeSteganography = 52, 52, 939, 494, Z, 26, 26, 913, 468, C
+MSharedCodes = 104, 104, 991, 546, C
